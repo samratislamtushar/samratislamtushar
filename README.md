@@ -34,7 +34,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ![samratislamtushar's Stats](https://github-readme-stats.vercel.app/api?username=samratislamtushar&theme=default&show_icons=true&hide_border=false&count_private=true)
-![samratislamtushar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samratislamtushar&theme=default&show_icons=true&hide_border=false&layout=compact)
+<!-- ![samratislamtushar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samratislamtushar&theme=default&show_icons=true&hide_border=false&layout=compact) -->
 <br/> 
 <p align="left"> <a href="https://twitter.com/me_tushar_" target="blank"><img src="https://img.shields.io/twitter/follow/me_tushar_?logo=twitter&style=for-the-badge" alt="me_tushar_" /></a> </p>
 
@@ -84,8 +84,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </div>
 
 <br/>  
-[samratislamtushar's Stats](https://github-readme-stats.vercel.app/api?username=samratislamtushar&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-<br/>  
+<!--🪳ROACH&🕷️SPIDER--> 
+<p align="left">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+ 
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
