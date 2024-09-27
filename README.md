@@ -36,7 +36,8 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 <br/> 
 <p align="left"> <a href="https://twitter.com/me_tushar_" target="blank"><img src="https://img.shields.io/twitter/follow/me_tushar_?logo=twitter&style=for-the-badge" alt="me_tushar_" /></a> </p>
 
-- 🔭 I’m currently working on [Layerdrops](https://themeforest.net/user/layerdrops)
+- 🔭 I’m currently working on [Vecuro Germany](https://themeforest.net/user/vecuro_themes)
+- 👨‍💻 I’m also working on [layerdrops](https://themeforest.net/user/layerdrops)
 - 👨‍💻 I’m also working on [Themepure](https://themeforest.net/user/theme_pure)
 - 👨‍💻 I’m also working on [Fiverr](https://www.fiverr.com/tushar_quicker)
 
