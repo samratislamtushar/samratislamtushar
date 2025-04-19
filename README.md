@@ -29,12 +29,8 @@
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 <br/>  
-
-
-![samratislamtushar's Stats](https://github-readme-stats.vercel.app/api?username=samratislamtushar&theme=default&show_icons=true&hide_border=false&count_private=true)
-<!-- ![samratislamtushar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samratislamtushar&theme=default&show_icons=true&hide_border=false&layout=compact) -->
-<br/> 
-<p align="left"> <a href="https://twitter.com/me_tushar_" target="blank"><img src="https://img.shields.io/twitter/follow/me_tushar_?logo=twitter&style=for-the-badge" alt="me_tushar_" /></a> </p>
+<h3 align="center">Languages over Last 30 Days</h3>
+<img src="https://wakatime.com/share/@samratislamtushar/1c3e1f69-2a5d-463e-bc42-baab724b1bac.svg" alt="Languages over Last 30 Days" />
 
 - 🔭 I’m currently working on [Vecuro Germany](https://themeforest.net/user/vecuro_themes)
 - 👨‍💻 I’m also working on [layerdrops](https://themeforest.net/user/layerdrops)
@@ -48,6 +44,8 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 - 📫 How to reach me **https://join.skype.com/invite/Gb02eq1NO3zV**
 
 - 📄 Know about my experiences [Coming soon](Coming soon)
+
+
 
 ### Graphic
 <div>  
