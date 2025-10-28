@@ -41,7 +41,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 - 💬 Ask me about **Font End,Javascript, PHP, Wordpress**
 
-- 📫 How to reach me **https://join.skype.com/invite/Gb02eq1NO3zV**
+- 📫 How to reach me **https://teams.live.com/l/invite/FBAqI-7yOmYStyGqA4?v=g1**
 
 - 📄 Know about my experiences [Coming soon](Coming soon)
 
