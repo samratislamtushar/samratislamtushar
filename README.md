@@ -31,6 +31,14 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 <br/>  
 <h3 align="center">Languages over Last 30 Days</h3>
 <img src="https://wakatime.com/share/@samratislamtushar/1c3e1f69-2a5d-463e-bc42-baab724b1bac.svg" alt="Languages over Last 30 Days" />
+<!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/samratislamtushar/samratislamtushar/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/samratislamtushar/samratislamtushar/main/output/stats_langs.svg">
+</picture>
+
+
+
 
 - 🔭 I’m currently working on [Vecuro Germany](https://themeforest.net/user/vecuro_themes)
 - 👨‍💻 I’m also working on [layerdrops](https://themeforest.net/user/layerdrops)
